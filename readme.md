@@ -7,12 +7,12 @@
 </h3>
 
 <p align="center">
-<a href="https://bedirhanyilmaz.com" target="blank">bedirhanyilmaz.com </a>
+<a href="https://bedirhanyilmaz.com" target="blank">Personal Website</a>
 </p>
 <p align="center"> 
   <samp>
     <br>
-     I'm a full-stack developer from <b>Berlin</b> building mobile and web solutions.
+     I'm a full-stack developer from <b>Berlin</b>.
     <br>
     <br>
   </samp>
@@ -37,7 +37,8 @@
   
  ❤️ &emsp; Love to create <br/><br/>
  ✌️ &emsp; The best way to learn is by doing <br/><br/>
- 📧 &emsp; Reach me: dev@bedirhanyilmaz.com<br/><br/>
+ 💻 &emsp; JS frameworks for frontend, backend, and mobile
+ 
 
 </p>
 
