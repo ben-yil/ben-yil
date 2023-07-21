@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-<a href="https://bedirhanyilmaz.com" target="blank">Personal Website</a>
+<a href="https://bedirhanyilmaz.vercel.app" target="blank">bedirhanyilmaz.vercel.app</a>
 </p>
 <p align="center"> 
   <samp>
