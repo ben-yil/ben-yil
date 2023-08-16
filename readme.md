@@ -2,12 +2,12 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hi! It's  
-                <b><a target="_blank" href="https://alsiam.com">Bedirhan</a></b>
+                <b><a target="_blank" href="https://alsiam.com">Ben</a></b>
         </samp>
 </h3>
 
 <p align="center">
-<a href="https://bedirhanyilmaz.vercel.app" target="blank">bedirhanyilmaz.vercel.app</a>
+<a href="https://ben-yil.vercel.app" target="blank">ben-yil.vercel.app</a>
 </p>
 <p align="center"> 
   <samp>
