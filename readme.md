@@ -19,11 +19,11 @@
 </p>
 
 <p align="center">
- <a href="https://bedirhanyilmaz.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="yilmazbedirhan" />
+ <a href="https://ben-yil.vercel.app" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ben-yil" />
  </a>
- <a href="https://linkedin.com/in/yilmazbedirhan" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yilmazbedirhan"/>
+ <a href="https://linkedin.com/in/ben-yil" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ben-yil"/>
  </a>
 
 </p>
@@ -67,7 +67,7 @@
 <br/>
 
 ## Projects 
-[![text-ai](https://github-readme-stats.vercel.app/api/pin/?username=yilmazbedirhan&repo=text-ai&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yilmazbedirhan/text-ai)
-[![nextbnb](https://github-readme-stats.vercel.app/api/pin/?username=yilmazbedirhan&repo=nextbnb&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yilmazbedirhan/nextbnb)
-[![Placebook](https://github-readme-stats.vercel.app/api/pin/?username=yilmazbedirhan&repo=placebooksocial&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yilmazbedirhan/placebooksocial)
+[![text-ai](https://github-readme-stats.vercel.app/api/pin/?username=ben-yil&repo=text-ai&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ben-yil/text-ai)
+[![nextbnb](https://github-readme-stats.vercel.app/api/pin/?username=ben-yil&repo=nextbnb&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ben-yil/nextbnb)
+[![Placebook](https://github-readme-stats.vercel.app/api/pin/?username=ben-yil&repo=placebooksocial&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ben-yil/placebooksocial)
 
