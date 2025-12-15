@@ -65,9 +65,3 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 <br/>
-
-## Projects 
-[![text-ai](https://github-readme-stats.vercel.app/api/pin/?username=ben-yil&repo=text-ai&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ben-yil/text-ai)
-[![nextbnb](https://github-readme-stats.vercel.app/api/pin/?username=ben-yil&repo=nextbnb&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ben-yil/nextbnb)
-[![Placebook](https://github-readme-stats.vercel.app/api/pin/?username=ben-yil&repo=placebooksocial&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ben-yil/placebooksocial)
-
