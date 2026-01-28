@@ -1,7 +1,7 @@
-<h2>👋 Hello! I'm Ben, developer at SAP.</h2>
+<h2>👋 Hello! I'm Bedirhan, developer at SAP</h2>
 
 <p>
-    ❤️ &emsp; Love to build: Focused on practical, real-world applications <br/><br/>
-    ✌️ &emsp; Learn by doing: Always tackling new tech and challenges <br/><br/>
-    💻 &emsp; Primary Stack: Python & TS
+    🐍 &emsp; Python <br/><br/>
+    ☁️ &emsp; Docker & Kubernetes <br/><br/>
+    💻 &emsp; TypeScript; React & React Native
 </p>
